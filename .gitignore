@@ -93,6 +93,9 @@ scratch.md
 # Turborepo
 .turbo
 
+# Generated flows (Claude skill output)
+.agents/skills/generate-flow/generated-flows/
+
 # Playwright
 /test-results/
 /playwright-report/
